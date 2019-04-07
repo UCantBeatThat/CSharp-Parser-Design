@@ -1,0 +1,16 @@
+
+Hash	| ID Name	| Type	| Size	| Scope	| Arg	| Arg V| Ret Type|
+-----------------------------------------------------------------------------------
+0	| Collections		| 	| 0	| G	| 0	|  	| 	
+0	| Generic		| 	| 0	| G	| 0	|  	| 	
+1	| flag		| int	| 4	| L	| 0	|  	| 	
+5	| i		| int	| 4	| L	| 0	|  	| 	
+6	| Main		| FUNC	| 0	| L	| 1	|  14  	|void	
+7	| k		| int	| 4	| L	| 0	|  	| 	
+8	| Linq		| 	| 0	| G	| 0	|  	| 	
+8	| Program		| 	| 0	| L	| 0	|  	| 	
+10	| Text		| 	| 0	| G	| 0	|  	| 	
+11	| num		| int	| 4	| L	| 0	|  	| 	
+13	| System		| 	| 0	| G	| 0	|  	| 	
+14	| arg		| int	| 4	| L	| 0	|  	| 	
+15	| check1		| 	| 0	| G	| 0	|  	| 	
